@@ -1,7 +1,9 @@
 # Aula-08-ES
 
 Exercício Prático
+
 Sistema de Streaming (tipo Netflix/Prime)
+
 Contexto: Você vai modelar um sistema simples de streaming.
 
 # 📋 Etapa 1 — Miro + Draw.io
